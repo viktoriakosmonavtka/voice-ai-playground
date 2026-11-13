@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# API keys and secrets
+.env
+.env.*
+!.env.example
+*.json
+*.pem
+*.key
+
+# Recorded audio
+recorded_*.wav
+
+# Temporary files
+*.log

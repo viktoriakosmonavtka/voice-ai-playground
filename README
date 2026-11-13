@@ -1,0 +1,31 @@
+# Voice AI Playground
+
+Educational Python project exploring speech recognition, audio processing, YandexGPT and voice-controlled AI applications.
+
+## About
+
+This repository contains a collection of Python experiments developed while learning to work with speech technologies and AI APIs.
+
+The project explores:
+
+- Audio recording and processing
+- Speech recognition experiments
+- Sending requests to YandexGPT
+- Context-aware AI conversations
+- Voice-controlled interactions
+
+## Project Status
+
+**Educational / Experimental**
+
+This is a learning project, not a production-ready application. Individual scripts represent different stages of experimentation and may require additional configuration.
+
+## Technologies
+
+- Python
+- YandexGPT API
+- Audio processing and speech technologies
+
+## Security
+
+API credentials are not intended to be included in this repository. Configure credentials locally before running scripts.
